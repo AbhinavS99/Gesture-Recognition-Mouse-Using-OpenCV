@@ -41,4 +41,4 @@ Markers made with paper|
 
 ### Running the code
 * Open the terminal/cmd in the current working directory.  
-* Run the command **python Gesture_Recognition.py** 
+* Run the command **python Main.py** 
